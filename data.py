@@ -15,8 +15,7 @@ class Data:
         generate_single_button,
         [InlineKeyboardButton("✨ ʙᴏᴛ sᴛᴀᴛᴜs ✨", url="https://t.me/StarkBots/7")],
         [
-            InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ ⌨️", callback_data="help"),
-        [   
+            InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ ⌨️", callback_data="help"),        
         ], 
         [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs ☢️", url="https://t.me/TEACH_TEAMOP")],
     ]
