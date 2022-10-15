@@ -1,5 +1,4 @@
-# Pyrogram and Telethon String Session Bot [@TEACH_TEAMOP](https://t.me/TEACH_TEAMOP)
-
+# ρуяσgяαм αи∂ тєℓєтнσи ѕтяιиg ѕєѕѕισи вσт [@тєα¢н_тєαмσρ](https://t.me/TEACH_TEAMOP)
 > A star ⭐ from you means a lot to us!
 
 <p align="center"><a href="https://www.github.com/TEAMSTARWORLD/Myrastring"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
