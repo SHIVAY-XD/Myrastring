@@ -27,7 +27,7 @@ Hᴇʏ {}
 Tʜɪs ɪs {} ❣,
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ :[ɢɪᴛʜᴜʙ](https://github.com/loveness/stringbot) 
+Sᴏᴜʀᴄᴇ :[ɢɪᴛʜᴜʙ](https://github.com) 
 Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ :[𝗦𝗧∆𝗥 𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) !
     """
 
