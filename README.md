@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://www.github.com/TEAMSTARWORLD/Myrastring"><img src="https://te.legra.ph/file/cad5d320752540b3da2a7.jpg" width="2000"></a></p>
 
-Telegram bot to generate pyrogram and telethon string session.
+ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
