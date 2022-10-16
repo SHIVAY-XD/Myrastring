@@ -1,7 +1,7 @@
-<p align="center"><a href="https://www.github.com/TEAMSTARWORLD/Myrastring"><img src="https://te.legra.ph/file/cad5d320752540b3da2a7.jpg" width="2000"></a></p>
 # ρуяσgяαм αи∂ тєℓєтнσи ѕтяιиg ѕєѕѕισи вσт [@тєα¢н_тєαмσρ](https://t.me/TEACH_TEAMOP)
-
 > A star ⭐ from you means a lot to us!
+
+<p align="center"><a href="https://www.github.com/TEAMSTARWORLD/Myrastring"><img src="https://te.legra.ph/file/cad5d320752540b3da2a7.jpg" width="2000"></a></p>
 
 ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ.
 
