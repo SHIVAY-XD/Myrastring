@@ -75,10 +75,8 @@
 
 ## ꜱᴜᴘᴘᴏʀᴛ
 
-ᶜᴴᴬᴺᴺᴱᴸ :- [@TEACH_TEAMOP](https://t.me/TEACH_TEAMOP)
-
-ᴼᵂᴺᴱᴿ :- [@STAR](https://t.me/TG_STARWORLD)
-
+<a href="https://t.me/TG_STARWORLD"><img src="https://img.shields.io/badge/ᴼᵂᴺᴱᴿ%20To%20blue.svg?logo=Telegram"></a>
+<a href="https://youtu.be/ck4U8eyE9vk"><img src="https://img.shields.io/youtube/views/aWnWbFGXp5U?style=social">
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
