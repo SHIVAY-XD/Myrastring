@@ -75,7 +75,7 @@
 
 ## ꜱᴜᴘᴘᴏʀᴛ
 
-<a href="https://t.me/TG_STARWORLD"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥%100-%100-blue.svg?logo=Telegram"></a>
+<a href="https://t.me/TG_STARWORLD"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥%10-%10-blue.svg?logo=Telegram"></a>
 <br>
 <a href="https://t.me/TEACH_TEAMOP"><img src="https://img.shields.io/badge/𝗖𝗛𝗔𝗡𝗡𝗘𝗟%100-%20-blue.svg?logo=Telegram">
 ## :)
