@@ -35,15 +35,15 @@ from telethon.errors import (
 ask_ques = "» ᴩʟᴇᴀsᴇ ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴩʏᴛʜᴏɴ ʟɪʙʀᴀʀʏ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ :"
 buttons_ques = [
     [
-        InlineKeyboardButton("Pyrogram", callback_data="pyrogram1"),
-        InlineKeyboardButton("Telethon", callback_data="telethon"),
+        InlineKeyboardButton("ᴘʏʀᴏɢʀᴀᴍ", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon"),
     ],
     [
-        InlineKeyboardButton("Pyrogram v2 [New]", callback_data="pyrogram"),
+        InlineKeyboardButton("ᴘʏʀᴏɢʀᴀᴍ ᴠ𝟸 [ɴᴇᴡ]", callback_data="pyrogram"),
     ],
     [
-        InlineKeyboardButton("Pyrogram Bot", callback_data="pyrogram_bot"),
-        InlineKeyboardButton("Telethon Bot", callback_data="telethon_bot"),
+        InlineKeyboardButton("ᴘʏʀᴏɢʀᴀᴍ ʙᴏᴛ", callback_data="pyrogram_bot"),
+        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ ʙᴏᴛ", callback_data="telethon_bot"),
     ],
 ]
 
@@ -55,14 +55,14 @@ async def main(_, msg):
 
 async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: bool = False, is_bot: bool = False):
     if telethon:
-        ty = "Telethon"
+        ty = "ᴛᴇʟᴇᴛʜᴏɴ"
     else:
-        ty = "Pyrogram"
+        ty = "ᴘʏʀᴏɢʀᴀᴍ"
         if not old_pyro:
             ty += " v2"
     if is_bot:
-        ty += " Bot"
-    await msg.reply(f"Starting {ty} Session Generation...")
+        ty += " ʙᴏᴛ"
+    await msg.reply(f"» ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ **{ty}** sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ...")
     user_id = msg.chat.id
     api_id_msg = await bot.ask(user_id, 'Please send your `API_ID`', filters=filters.text)
     if await cancelled(api_id_msg):
