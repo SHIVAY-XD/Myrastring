@@ -71,7 +71,7 @@
 
 - [𝗦𝗧∆𝗥𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) for **ᴛᴇʟᴇᴛʜᴏɴ** idea of [v1.0.0](https://github.com/TEAMSTARWORLD/Myrastring/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
 - [𝗗𝗔𝗡-𝗧𝗘𝗦](https://github.com/delivrance) for his [ᴘʏʀᴏɢʀᴀᴍ](https://docs.pyrogram.org) Library
-- [𝗟𝗢𝗡𝗔𝗠𝗜](https://github.com/Lonami) for his [Telethon](https://docs.telethon.dev) Library 
+- [𝗟𝗢𝗡𝗔𝗠𝗜](https://github.com/Lonami) for his [ᴛᴇʟᴇᴛʜᴏɴ](https://docs.telethon.dev) Library 
 
 ## Support
 
