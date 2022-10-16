@@ -67,17 +67,17 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## Credits
+## ᴄʀᴇᴅɪᴛꜱ
 
-- [𝗦𝗧∆𝗥𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) for **ᴛᴇʟᴇᴛʜᴏɴ** idea of [v1.0.0](https://github.com/TEAMSTARWORLD/Myrastring/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
-- [𝗗𝗔𝗡-𝗧𝗘𝗦](https://github.com/delivrance) for his [ᴘʏʀᴏɢʀᴀᴍ](https://docs.pyrogram.org) Library
-- [𝗟𝗢𝗡𝗔𝗠𝗜](https://github.com/Lonami) for his [ᴛᴇʟᴇᴛʜᴏɴ](https://docs.telethon.dev) Library 
+- [𝗦𝗧∆𝗥𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) ꜰᴏʀ **ᴛᴇʟᴇᴛʜᴏɴ** ɪᴅᴇᴀ ᴏꜰ [ᴠ1.0.0](https://github.com/TEAMSTARWORLD/Myrastring/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
+- [𝗗𝗔𝗡-𝗧𝗘𝗦](https://github.com/delivrance) ꜰᴏʀ ʜɪꜱ [ᴘʏʀᴏɢʀᴀᴍ](https://docs.pyrogram.org) ʟɪʙʀᴀʀʏ
+- [𝗟𝗢𝗡𝗔𝗠𝗜](https://github.com/Lonami) ꜰᴏʀ ʜɪꜱ [ᴛᴇʟᴇᴛʜᴏɴ](https://docs.telethon.dev) ʟɪʙʀᴀʀʏ 
 
-## Support
+## ꜱᴜᴘᴘᴏʀᴛ
 
-Channel :- [@TEACH_TEAMOP](https://t.me/TEACH_TEAMOP)
+ᶜᴴᴬᴺᴺᴱᴸ :- [@TEACH_TEAMOP](https://t.me/TEACH_TEAMOP)
 
-Owner :- [@STAR](https://t.me/TG_STARWORLD)
+ᴼᵂᴺᴱᴿ :- [@STAR](https://t.me/TG_STARWORLD)
 
 ## :)
 
