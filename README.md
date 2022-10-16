@@ -76,7 +76,8 @@
 ## ꜱᴜᴘᴘᴏʀᴛ
 
 <a href="https://t.me/TG_STARWORLD"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥%20-%20-blue.svg?logo=Telegram"></a>
-<a href="https://youtu.be/ck4U8eyE9vk"><img src="https://img.shields.io/youtube/views/aWnWbFGXp5U?style=social">
+<br>
+<a href="https://t.me/TEACH_TEAMOP"><img src="https://img.shields.io/Telegram/views/aWnWbFGXp5U?style=social">
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
