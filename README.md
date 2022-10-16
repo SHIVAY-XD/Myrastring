@@ -7,13 +7,13 @@
 
  <a href="https://github.com/TEAMSTARWORLD"><img alt="Website" src="https://img.shields.io/badge/𝗦𝗧𝝙𝗥𝗪𝗢𝗥𝗟𝗗-blue"></a>
  
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/TEAMSTARWORLD/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/TEAMSTARWORLD/Myrastringopen-source-badges/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMSTARWORLD/Myrastring)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAMSTARWORLD/Myrastring"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
