@@ -5,6 +5,8 @@
 
 ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ.
 
+ <a href="https://github.com/TEAMSTARWORLD"><img alt="Website" src="https://img.shields.io/badge/𝗦𝗧𝝙𝗥𝗪𝗢𝗥𝗟𝗗-blue"></a>
+ 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Usage
