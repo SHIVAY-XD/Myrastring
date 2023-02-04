@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "worker"
+      "size": "free"
     }
   },
   "addons": [
@@ -22,7 +22,7 @@
          "options": {
             "version": "12"
          },
-         "plan": "heroku-postgresql"
+         "plan": ""
       }
    ],
   "repository": "https://github.com/TEAMSTARWORLD/Myrastring",
